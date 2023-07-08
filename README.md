@@ -1,17 +1,24 @@
 # Web-Computing
 
 ## Course Outline:
-###Frontend
+### Frontend
 WebContentUIs
+
 Web Requests & React
+
 Web Design & SPAs
+
 React State and Components and Accessibility
 
-###Backend
+### Backend
 REST and Node
+
 Express Middleware
+
 Security
+
 Deployment
+
 Asynchronous JS
 
 ## Code:
